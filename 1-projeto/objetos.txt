@@ -1,0 +1,3 @@
+Objetos
+
+pessoa = {nome: "Ederson", idade: 90}

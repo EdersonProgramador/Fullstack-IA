@@ -1,0 +1,20 @@
+Exercício 1: Exibir os números de 1 a 10.
+
+1. Definir o número inicial.
+2. Defino a condição de permanência.
+3. Definir o incremento do número inicial.
+
+valor = 1
+enquanto valor <= 10:
+- exibir valor
+- valor = valor + 1
+
+valor = 1
+enquanto vlaor <= 3:
+- dirigir até a padaria
+- pedir 10 pães
+- pagar os pães no caixa
+- dirigir até casa 
+- valor = valor + 1
+
+carregar

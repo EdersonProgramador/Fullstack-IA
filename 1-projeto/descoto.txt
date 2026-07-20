@@ -1,0 +1,13 @@
+Desconto = 0
+
+Se valor > 100:
+    desconto = 10
+
+Se valor > 200:
+    desconto = 20
+
+Valor_desconto = (desconto/100) * valor
+valor_final = valor - Valor_desconto
+
+exibir valor_final
+

@@ -1,0 +1,40 @@
+PROMISSE
+- pending
+- fulfilled
+- rejected
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quando o flex está com a direção ROW:
+
+- justify-content = vai mexer no alinhamento linha
+- align-items = vai mexer no alinhamento coluna
+
+Quando o flex está com a direção COLUMN:
+
+- justify-content = vai mexer no alinhamento coluna
+- align-items = vai mexer no alinhamento linha
+
+
+MOBILE-FIRST

@@ -1,0 +1,3 @@
+ARRAY
+
+lista = ["arroz", "feijão", "café"];

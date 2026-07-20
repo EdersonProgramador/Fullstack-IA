@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unidades de Medida.</title>
+    <style>
+
+       body {
+        box-sizing: border-box;
+        margin: 0;
+        font-family: 'Roboto', Arial, sans-serif;
+       }
+
+       nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 80px;
+        padding-left: 20px;
+        padding-right: 20px;
+       }
+
+       nav .logo {
+        width: 60px;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: bold;
+        font-size: 36px;
+       }
+
+       nav ul li {
+        display: flex;
+        margin: 10px;
+        align-items: center;
+       }
+
+       nav ul {
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+       }
+
+       nav .botoes button {
+        background-color: #333;
+        color: #fff;
+        padding: 10px 15px 10px 15px;
+       }
+
+       @media (width > 500px) {
+            nav .botoes {
+                display: none;
+            }
+        }
+
+        @media (width > 700px) {
+            nav .botoes .cadastro {
+                display: inline;
+            }
+        }
+
+    </style>
+</head>
+<body>
+   <nav>
+    <div class="logo">Baruc</div>
+    <ul>
+        <li>Recursos</li>
+        <li>Para Empresas</li>
+        <li>Planos</li>
+    </ul>
+    <div class="botoes">
+        <button>Entrar</button>
+        <button>Teste gratuitamente</button>
+    </div>
+    
+   </nav>
+</body>
+</html>

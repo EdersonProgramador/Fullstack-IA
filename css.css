@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+.aviso {
+    display: none;
+    border: 2px solid #fff;
+    background-color: gray;
+    color: black;
+    padding: 10px;
+}
+
+.mostrar {
+    display: block;
+}

@@ -1,0 +1,11 @@
+PROJETO calculadora de Médias:
+
+Recebe uma lista de notas (0-10)
+
+[2, 5, 8, 9, 7, 6, 9, 8, 4, 6]
+
+- Função para calcular a média
+-> calcularMedia(notas)
+
+- Função para classificar essa média (0-4 = ruim, 5-7 = bom, 8-10 = ótimo)
+-> classificar(media)+

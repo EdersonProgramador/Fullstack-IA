@@ -1,0 +1,56 @@
+O que é um algorítimo?
+
+Algoritimo para fazer um café:
+- Torrar o grão do café
+- Moer o grão do café
+- Adicionar pó na cafeteira
+- Adicionar a água na cafeteira
+- Apertar o botão de inicar
+- Esperar 5 minutos
+- Tira o líquido da cafeteira
+- Coloca no copo
+- Bebe
+
+Algoritimo para fazer login:
+
+- Receber dados do usuário
+- Verificar se usuário existe no banco de dados
+- Verificar se a senha é desse usuário
+- Se existir, dá o OK para prox pag.
+- Se não existir, avisa que deu problema.
+
+Se (condição) Então:
+- Faça x coisa
+CASA CONTRÁRIO:
+- Faça Y coisa
+
+idade = 15 -> Se idade > 18:
+                - Exibir "Maior de idade"
+                Caso contrário:
+                - Exibe "Menor de idade"
+                Menor de idade
+
+Algorítimo para verificar NOTA
+    Nota maior que 8: Exerlente
+    Nota entre 5 e 8: Bom
+    Nota menor que 5: Ruim
+
+nota = 7
+
+Se nota < 5:
+- Exibir "Ruim"
+
+Se nota >= 5 e <= 8
+- Exibir "Bom"
+
+Se nota > 8:
+- Exibir "Exelente"
+
+
+< = menor que
+> = maior que 
+== igual a
+>= maior ou igual 
+<=menor ou igual 
+!= diferente
+

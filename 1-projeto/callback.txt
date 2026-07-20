@@ -1,0 +1,12 @@
+CALLBACK 
+
+function algumaCoisa() {
+
+}
+
+lista.forEach()
+
+
+EVENTOS
+
+O QUE É UM EVENTO?

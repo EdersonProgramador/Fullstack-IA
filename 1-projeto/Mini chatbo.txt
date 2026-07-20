@@ -1,0 +1,17 @@
+Problema 3: Mini Chatbot de triagem médica:
+- Tem febre? Tem Tosse?
+
+pontuacao = 0
+Se tem febre == true:
+- pontuacao = pontuacao + 1
+
+Se tem tosse == true:
+
+Se tem sangue == true: 
+
+- pontuacao = pontuacao + 1
+
+Se pontuacao >=2: 
+- exibir "URGENCIA"
+CASO CONTRÁRIO:
+- exibir "NORMAL"

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-do List</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header class="header">
+        <h1>Lista de tarefas</h1>
+        <p>Adicione, conclua e remova tarefas com facilidade.</p>
+      </header>
+
+      <section class="form-card">
+        <form id="task-form" class="form-row">
+          <input
+            id="task-input"
+            class="input"
+            type="text"
+            placeholder="Adicionar uma tarefa"
+            autocomplete="off"
+          />
+          <button id="add-button" class="btn btn-primary" type="submit">Adicionar</button>
+        </form>
+      </section>
+
+      <section class="list-card">
+        <ul id="task-list" class="list"></ul>
+        <p id="empty-state" class="empty-state">Nenhuma tarefa adicionada ainda.</p>
+      </section>
+    </main>
+
+    <script src="assets/script.js"></script>
+  </body>
+</html>

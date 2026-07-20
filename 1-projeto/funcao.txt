@@ -1,0 +1,11 @@
+Toda função tem:
+
+- Nome
+- Parâmetros (valores de input)
+- Retorno (output)
+
+exibir_nome_completo (nome, sobrenome)
+- juntar nome e sobrenome
+- retorno: exibir essa junção
+
+Nome completo

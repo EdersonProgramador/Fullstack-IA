@@ -1,0 +1,18 @@
+Problema 2: Verificador de senha fraca/média/forte
+- Baseado no comprimento
+
+INPUT:
+1234
+
+Se caracteres senha < 4:
+- exibir "Senha fraca"
+
+Se caracteres senha >= 4 && caracteres senha < 10:
+- exibir "Senha média"
+
+Se caracteres senha >= 10
+- exibir "Senha Forte"
+
+Output:
+Senha média
+
