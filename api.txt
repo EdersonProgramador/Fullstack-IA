@@ -21,3 +21,5 @@ STATUS CODE:
 - 200 = ok
 - 201 = Algum recurso foi criado
 - 404 = Não encontrado
+
+FORMATO DE RESPOSTA: JSON (Javascript Object Notation)
