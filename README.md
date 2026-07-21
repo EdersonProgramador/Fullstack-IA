@@ -1,11 +1,11 @@
 # Fullstack-IA
 
-## Ambiente + HTML + CSS + Landing Page
+## 1 - Ambiente + HTML + CSS + Landing Page
 
-## Lógica e Algorítimos 
+## 2 - Lógica e Algorítimos 
 
-## Fundamentos JS + DOM + Projeto: Lista de Tarefas
+## 3 - Fundamentos JS + DOM + Projeto: Lista de Tarefas
 
-## Git + GitHub
+## 4 - Git + GitHub
 
-## JS Avançado: Fetch, Async/Await e Timers
+## 5 - JS Avançado: Fetch, Async/Await e Timers
