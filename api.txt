@@ -1,0 +1,23 @@
+API
+
+- É um site que foi feito para outros sites se comunicarem
+
+https://api.github.com/users/bonieky
+
+ENDPOINT = Endereço de uma ação específica na API
+
+Protocolo HTTP
+
+- Request
+- Response
+
+Verbos/métodos HTTP:
+- GET
+- POST
+- PUT/PATCH
+- DELETE
+
+STATUS CODE:
+- 200 = ok
+- 201 = Algum recurso foi criado
+- 404 = Não encontrado
