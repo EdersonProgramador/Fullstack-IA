@@ -14,3 +14,11 @@ body {
 .mostrar {
     display: block;
 }
+
+#name {
+    font-size: 18px;
+}
+
+#imagem {
+    width: 100px;
+}
