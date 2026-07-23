@@ -10,4 +10,6 @@
 
 ## 5 - JS Avançado: Fetch, Async/Await e Timers
 
-## 6 - Node
+## 6 - Node - npm - typescript
+    npm install date-fns
+
