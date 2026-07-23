@@ -31,3 +31,4 @@ Instruções visuais:
 - Um card para o resultado da busca com borda arredondada
 - Fundo mais escuro que os cards.
 - Página interira centralizada com limite de largura de 700px para o conteúdo
+
