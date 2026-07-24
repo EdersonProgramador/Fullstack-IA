@@ -26,3 +26,18 @@
     - npm run build
     - npm run start
 
+    BUNDLER = Agregador de código
+
+    [Vite](https://vite.dev/)
+
+    npm create vite@latest
+
+    O que é o Typescript?
+        Superset do Javascript
+
+    Fluxo:
+        - Você digita código Typescript
+        - O typescript gera código javascript
+        - O navegador executa o código javascript
+    
+    
