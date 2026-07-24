@@ -39,5 +39,18 @@
         - Você digita código Typescript
         - O typescript gera código javascript
         - O navegador executa o código javascript
+
+    TIPOS PRIMITIVOS
+
+    STRING
+    NUMBER
+    BOOLEAN
+    NULL
     
+    UNDEFINED
+    ANY
+    UNKOWN  
+
+    Arrays e objetos tipados
+
     
