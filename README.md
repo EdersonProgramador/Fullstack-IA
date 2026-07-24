@@ -12,7 +12,7 @@
 
 ## 5 - JS Avançado: Fetch, Async/Await e Timers
 
-## 6 - Node - npm - typescript
+## 6 - Node - npm - Vite - typescript
     npm i date-fns
 
     DEV: Rodar o projeto em modo desenvolvimento
