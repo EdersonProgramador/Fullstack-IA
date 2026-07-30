@@ -52,10 +52,3 @@
 
     Arrays e objetos tipados
 
-    Interface e type aliases
-
-### Projeto: Painel de Despesas - Planejamento
-
-Para Deploy em react com VITE instalar a dependencia: npm i gh-pages --save-dev
-// nomedousuario.github.io/<nomedorepo>
-
