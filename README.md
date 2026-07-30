@@ -6,7 +6,28 @@
 
 ## 3 - Fundamentos JS + DOM + Projeto: Lista de Tarefas
 
-## 4 - Git + GitHub
+## 4 - Git + GitHub + GithubPages
+
+### GithubPages
+
+Prompt: 
+    Eu quero fazer o deploy no Github Pages. 
+    Para fazer isso, preciso criar um arquivo CI/CD para que
+    toda vez que alguma mudança for para a branch main, eu 
+    disparar o Github Actions para gerar os arquivos para o 
+    Github Page3s.
+
+    Faça as modificações no projeto e crie o arquivo do workflow
+    do Github Actions.
+
+    URL do repositório: https://github.com/EdersonProgramador/repositório
+
+CI/CD
+    - Toda vez que fizer um push no main
+    - Disparar uma compilação via Github Actions
+    - Vai Gerar os arquivos do Build
+    - O GithubPage vai usar esses arquivos
+
     .gitignore
 
 ## 5 - JS Avançado: Fetch, Async/Await e Timers
