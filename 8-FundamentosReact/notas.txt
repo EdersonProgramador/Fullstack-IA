@@ -1,0 +1,8 @@
+Por que React existe?
+
+Manipulação IMPERATIVA JS direto
+Manipulação DECLARATIVA React
+
+1 - Vite
+2 - Next.js
+
